@@ -1,0 +1,48 @@
+﻿<Properties StartupConfiguration="{19218137-93ED-44A0-9C50-26E71A8BE97D}|https">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/applemisharoz2003gmail.com/ApiDogs/Services/DogServices.cs" relfile="Services/DogServices.cs" line="58" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Models/Dog.cs">
+    <Files>
+      <File FileName="Models/Dog.cs" Line="1" Column="1" />
+      <File FileName="DAL/DogsContext.cs" />
+      <File FileName="DAL/Extentions.cs" />
+      <File FileName="DAL/DatabaseInitializer.cs" Line="13" Column="1" />
+      <File FileName="DAL/Configurations/DogsConfigurations.cs" />
+      <File FileName="Services/DogServices.cs" Line="45" Column="5" />
+      <File FileName="Program.cs" />
+      <File FileName="appsettings.Development.json" />
+      <File FileName="Controllers/Request/DogRequest.cs" />
+      <File FileName="Abstract/DataServiceMessage.cs" />
+      <File FileName="Controllers/DogsControllers.cs" Line="36" Column="75" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ApiDogs" expanded="True">
+            <Node name="ApiDogs" expanded="True">
+              <Node name="Abstract" expanded="True" />
+              <Node name="Controllers" expanded="True">
+                <Node name="Request" expanded="True" />
+              </Node>
+              <Node name="DAL" expanded="True">
+                <Node name="Configurations" expanded="True" />
+              </Node>
+              <Node name="Models" expanded="True">
+                <Node name="Dog.cs" selected="True" />
+              </Node>
+              <Node name="Services" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ApiDogs PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
